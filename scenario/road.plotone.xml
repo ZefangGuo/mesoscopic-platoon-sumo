@@ -1,0 +1,6 @@
+<routes>
+    <!-- solo tipo di veicolo e percorso: i veicoli li crea Python -->
+    <vType id="cav" length="5" minGap="0" accel="10" decel="10"
+           emergencyDecel="10" maxSpeed="36" sigma="0" speedDev="0"/>
+    <route id="r" edges="road"/>
+</routes>

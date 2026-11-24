@@ -1,0 +1,5 @@
+<nodes>
+    <!-- nodi di inizio e fine percorso -->
+    <node id="start" x="0"     y="0"/>
+    <node id="end"   x="5000" y="0"/>
+</nodes>

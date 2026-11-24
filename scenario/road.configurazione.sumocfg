@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+        <net-file    value="road.output.xml"/>
+        <route-files value="road.plotone.xml"/>
+    </input>
+    <time>
+        <step-length value="0.001"/>
+        <end value="60"/>
+    </time>
+    <processing>
+        <step-method.ballistic value="true"/>
+    </processing>
+     <gui_only>
+        <gui-settings-file value="road.layout.xml"/>
+        <start value="true"/>
+    </gui_only>
+</configuration>

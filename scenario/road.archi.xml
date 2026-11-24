@@ -1,0 +1,4 @@
+<edges>
+    <!-- archi stradali -->
+    <edge id="road" from="start" to="end" numLanes="1" speed="36"/>
+</edges>
