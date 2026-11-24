@@ -60,9 +60,8 @@ Alla fine lo script stampa:
 - gli autovalori della coppia di veicoli e il guadagno γ̃ della condizione di string stability dell'articolo (string stability se γ̃ < 1);
 - il picco dell'errore di distanza max|gap − d| in ogni fase, per i veicoli 1, 2 e 30.
 
-Poi salva la figura `risultati_cp_macro.png` o `risultati_vp_macro.png` (con `_micro` se `MACRO = False`).
+Poi salva la figura `risultati_cp_macro.png` o `risultati_vp_macro.png`
 
-Con passo di 1 ms la grafica di SUMO rallenta molto. Con `GUI = False` e `SCOPE = False` la prova è molto più veloce.
 
 ## Parametri
 
